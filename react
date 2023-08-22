@@ -1,0 +1,8 @@
+npm i -g create-react-app 
+npm create-react-app appName
+npm -v 
+node -v
+npx -v 
+create-react-app --version
+npm run start
+npm start 
