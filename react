@@ -6,3 +6,4 @@ npx -v
 create-react-app --version
 npm run start
 npm start 
+npm install react-scripts --save
