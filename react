@@ -7,3 +7,12 @@ create-react-app --version
 npm run start
 npm start 
 npm install react-scripts --save
+npm i / npm install
+npm i react-router-dom
+npm i antd
+npm i firebase
+npm i @chakra-ui/react
+npm i @material-ui/core
+npm i tailwindcss
+npm i react-redux
+npm i bootstrap@5.0.1
