@@ -18,3 +18,4 @@ npm i react-redux
 npm i bootstrap@5.0.1
 npm i font-awesome
 npx create-next-app projectName
+npm run dev
